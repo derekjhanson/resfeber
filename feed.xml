@@ -3,7 +3,7 @@
     <title>Resfeber</title>
     <link href="https://resfeber.live/feed.xml" rel="self" />
     <link href="https://resfeber.live" />
-    <updated>2020-01-09T11:07:46-06:00</updated>
+    <updated>2020-01-10T08:23:59-06:00</updated>
     <author>
         <name>DJH</name>
     </author>
@@ -584,23 +584,24 @@
         <link href="https://resfeber.live/milford-sound/"/>
         <id>https://resfeber.live/milford-sound/</id>
 
-        <updated>2019-12-19T19:21:02-06:00</updated>
+        <updated>2020-01-10T08:23:54-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://resfeber.live/media/posts/19/IMG_20190626_101134v2.jpeg" alt="" />
-                    The famous sound. 
+                    The famous sound. More sounding. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://resfeber.live/media/posts/19/IMG_20190626_101134v2.jpeg" alt="" />
                 <p>The famous sound.</p>
+<p><img class="post__image--full" src="https://resfeber.live/media/posts/19/OOO1346.jpeg" alt="" width="2805" height="4219"></p>
 <p><!-- wp:image {"id":2599} --></p>
-<figure class="wp-block-image"><img class="wp-image-2599" src="https://resfeber.live/media/posts/19/OOO1346-681x1024.jpeg" alt=""></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p> </p>
-More sounding.
+<p>More sounding.</p>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":2905} --></p>
 <figure class="wp-block-image"><img class="wp-image-2905" src="https://resfeber.live/media/posts/19/IMG_20190626_094935-1-768x1024.jpeg" alt=""></figure>
